@@ -10,18 +10,18 @@
     "@sailshq/socket.io-redis": "^5.2.0",
     "mongo": "^0.1.0",
     "nodemon": "^2.0.20",
-    "sails": "^0.12.14",
+    "sails": "^1.5.3",
     "sails-hook-apianalytics": "^2.0.3",
     "sails-hook-organics": "^2.0.0",
     "sails-hook-orm": "^4.0.0",
     "sails-hook-sockets": "^2.0.0",
-    "sails-mongo": "^1.2.0"
+    "sails-mongo": "^2.0.0"
   },
   "devDependencies": {
     "eslint": "5.16.0",
     "grunt": "1.0.4",
-    "htmlhint": "^1.1.4",
-    "lesshint": "^4.6.5",
+    "htmlhint": "0.11.0",
+    "lesshint": "6.3.6",
     "sails-hook-grunt": "^5.0.0"
   },
   "scripts": {
